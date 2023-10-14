@@ -1,0 +1,211 @@
+
+.img {
+    height: 50px;
+    width: 90px;
+}
+
+.heading {
+    color: #183b56;
+    font-weight: bold;
+}
+
+.para {
+    color: #616c7c;
+}
+
+.para1 {
+    color: #7b8794;
+}
+
+.headingP {
+    color: #1f2933;
+    font-size: 20px;
+}
+
+.img1 {
+    height: 60px;
+    width: 60px;
+}
+
+.card {
+    text-align: center;
+    margin: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.bg {
+    background-color: white;
+}
+
+.heading1 {
+    color: #183b56;
+    font-weight: bold;
+
+}
+
+.right {
+    text-align: right;
+}
+
+.card1 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    border-radius: 10px;
+    background-size: cover;
+    text-align: left;
+}
+
+.card2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    border-radius: 10px;
+    background-size: cover;
+    text-align: left;
+}
+
+.card3 {
+    background-image: url('WhatsApp Image 2023-10-14 at 8.46.46 AM.jpeg');
+    border-radius: 10px;
+    background-size: cover;
+    text-align: left;
+}
+
+.card4 {
+    background-image: url('https://res.cloudinary.com/dzhxbh8f4/image/upload/v1658841102/cld-sample-5.jpg');
+    border-radius: 10px;
+    background-size: cover;
+    text-align: left;
+}
+
+
+
+.heading2 {
+    font-size: 30px;
+    color: white;
+    padding-top: 50px;
+    font-weight: bold;
+
+}
+
+.para {
+    color: white;
+}
+
+.offers {
+    color: #ff9f00;
+    font-weight: bold;
+}
+
+.button {
+    color: #ff9f00;
+    border-radius: 15px;
+    padding: 5px;
+    width: 100px;
+    font-size: 12px;
+    border-width: 0px;
+
+}
+
+.button1 {
+    color: #323f4b;
+    border-radius: 5px;
+}
+
+.bg {
+    background-color: #0d2436;
+    padding: 10px;
+
+
+
+}
+
+.para {
+    color: silver;
+}
+
+.heading {
+    color: #5a7184;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.para1 {
+    color: #5a7184;
+}
+
+.img {
+    height: 50px;
+}
+
+.icon {
+    font-size: 15px;
+    color: #5a7184;
+}
+
+.icon-container {
+    background-color: #202b36;
+    height: 40px;
+    width: 40px;
+    margin: 5px;
+    padding-top: 10px;
+    padding-left: 16px;
+    padding-right: 14px;
+    padding-bottom: 20px;
+    border-radius: 40px;
+
+}
+
+.bg-Cart {
+
+    background-color: #f7f1a6;
+    padding-top: 30px;
+}
+
+.Items {
+    list-style-type: none;
+    font-weight: 500;
+}
+
+
+.delivery-and-payment-section {
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+.delivery-and-payment-section-img {
+    width: 270px;
+}
+
+.delivery-and-payment-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.delivery-and-payment-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.card-text {
+    font-weight: 500;
+    color: grey;
+}
